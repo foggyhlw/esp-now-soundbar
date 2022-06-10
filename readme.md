@@ -13,3 +13,7 @@
 - 在Sender程序中修改broadcastAddress[]数组，内部为16进制，将上一步的mac地址填入
 - 烧录Sender程序
 - 串口接入Receiver模块，波特率115200，点按Sender按键，串口会输出当然sender的mac地址、按键编号和供电电压值
+
+## 视频教程
+- B站：https://www.bilibili.com/video/BV1nW4y1k7vH/
+- 油管：https://youtu.be/zsieRLuU3Sw
